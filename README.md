@@ -16,3 +16,9 @@ Worried about online repository ? Don't worry we already have templates built wi
 - Light-weight
 - Compatible with all types of applications
 
+## Current Progress
+- [ ]  API Templates 
+- [x]  Basic User Interface
+- [x]  File Comparing
+- [ ]  CLI 
+- [ ]  Documentation
